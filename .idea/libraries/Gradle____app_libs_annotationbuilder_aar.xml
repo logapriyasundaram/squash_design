@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/annotationbuilder.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf0559e791dabbc1d4970a44ea163ff7/annotationbuilder/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf0559e791dabbc1d4970a44ea163ff7/annotationbuilder/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf0559e791dabbc1d4970a44ea163ff7/annotationbuilder/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
